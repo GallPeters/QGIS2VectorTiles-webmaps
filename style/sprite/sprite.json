@@ -315,28 +315,35 @@
     "pixelRatio": 1
   },
   "marker_45": {
-    "x": 95,
+    "x": 81,
     "y": 180,
     "width": 8,
     "height": 8,
     "pixelRatio": 1
   },
   "marker_46": {
-    "x": 123,
+    "x": 109,
     "y": 180,
     "width": 8,
     "height": 8,
     "pixelRatio": 1
   },
   "marker_47": {
-    "x": 151,
+    "x": 137,
     "y": 180,
     "width": 8,
     "height": 8,
     "pixelRatio": 1
   },
   "marker_48": {
-    "x": 179,
+    "x": 165,
+    "y": 180,
+    "width": 8,
+    "height": 8,
+    "pixelRatio": 1
+  },
+  "marker_49": {
+    "x": 193,
     "y": 180,
     "width": 8,
     "height": 8,
