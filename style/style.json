@@ -4,7 +4,7 @@
   "sources": {
     "q2vt_tiles": {
       "type": "vector",
-      "url": "pmtiles://../tiles.pmtiles?v=13_10_2026_15_32_19_517975",
+      "url": "pmtiles://https://media.githubusercontent.com/media/GallPeters/QGIS2VectorTiles-webmaps/main/tiles.pmtiles",
       "maxzoom": 8
     }
   },
