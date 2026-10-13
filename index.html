@@ -66,6 +66,12 @@
             });
         })();
     </script>
+    <script>
+    if (new URLSearchParams(location.search).has('embed')) document.documentElement.classList.add('q2vt-embed');
+    </script>
+    <style>
+    .q2vt-embed .q2vt-top-left, .q2vt-embed .q2vt-draw { display: none !important; }
+    </style>
 </head>
 <body>
 <div id="map"></div>
