@@ -48,7 +48,7 @@
             if (viewer !== 'ml' && viewer !== 'ol') {
                 try { viewer = window.localStorage.getItem('q2vt:viewer'); } catch (e) { viewer = null; }
             }
-            if (viewer !== 'ml') viewer = 'ol';
+            if (viewer !== 'ol') viewer = 'ml';
             config.viewer = viewer;
             var zoom = parseFloat(params.get('z'));
             if (isFinite(zoom)) config.startZoom = zoom;
